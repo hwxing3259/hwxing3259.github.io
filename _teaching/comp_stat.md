@@ -1,4 +1,13 @@
 ---
+title: "SB1.2 Computational Statistics"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/comp_stat
+venue: "Department of Statistics, University of Oxford"
+
+
+<!-- 
+---
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
@@ -18,3 +27,4 @@ Heading 2
 
 Heading 3
 ======
+ -->
