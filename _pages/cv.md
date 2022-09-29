@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Mathematics, University of Waterloo, 2013-2017
+* MSc in Statistical Science, University of Oxford, 2017-2018
+* DPhil in Statistics, University of Oxford, 2018-2022 (If everything works out)
 
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -35,7 +36,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ -->
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
