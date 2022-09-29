@@ -1,4 +1,14 @@
 ---
+title: "SB2.1 Foundations of Statistical Inference"
+collection: teaching
+venue: "Department of Statistics, University of Oxord"
+---
+
+
+
+
+<!-- 
+---
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
@@ -17,4 +27,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->
