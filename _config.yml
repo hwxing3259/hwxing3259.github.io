@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanwen Xing"
 title_separator          : "-"
 name                     : &name "Hanwen Xing"
-description              : &description "Postdoctoral Researcher in Artificial Intelligence at University of Oxford"
+description              : &description "5th Year DPhil student at Oxford"
 url                      : https://hwxing3259.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hwxing3259.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hanwen Xing"
   avatar           : "profile1.png"
-  bio              : "Questionable final year DPhil student at Dept of Stats" # "Postdoctoral Researcher in Artificial Intelligence at Nuffield Department of Women's & Reproductive Health, University of Oxford"
+  bio              : "Final year DPhil student at Dept of Stats" # "Postdoctoral Researcher in Artificial Intelligence at Nuffield Department of Women's & Reproductive Health, University of Oxford"
   location         : "Oxford, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
