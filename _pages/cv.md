@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Mathematics, University of Waterloo, 2013-2017
 * MSc in Statistical Science, University of Oxford, 2017-2018
-* DPhil in Statistics, University of Oxford, 2018-2022 (If everything works out)
+* DPhil in Statistics, University of Oxford, 2018-2022
 
 <!-- 
 Work experience
